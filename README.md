@@ -9,4 +9,15 @@ I like having a quick way to spin up an Ubuntu Desktop, but with some preinstall
 * Docker
 * Docker Compose
 
+## Installation
+Assuming you have VirtualBox installed, simply execute the following:
+
+```bash
+git clone https://github.com/SharePointOscar/UbuntuDesktop
+
+cd UbuntuDesktop
+vagrant up
+
+```
+
 ![The Desktop](ubuntu_desktop.png)
